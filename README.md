@@ -29,7 +29,7 @@ This repository contains a simple inventory management system built using C# and
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/inventory-management-system.git
+    git clone https://github.com/dominic91960/inventory-management-system.git
     cd inventory-management-system
     ```
 
