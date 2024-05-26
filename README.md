@@ -55,4 +55,4 @@ This repository contains a simple inventory management system built using C# and
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
